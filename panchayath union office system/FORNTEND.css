@@ -1,0 +1,8 @@
+<br><br> 
+<div class="text"><a href="http://127.0.0.1:5500/set%20password.html">forgot password?</a></div>
+ <div class="button input-box">
+  <i class="fas fa-envelope"></i>  
+    <button style="font-size: 20px;margin-bottom:auto;height: 70;width: 
+    80; border-radius: 15px; padding-left: 10px;margin-left: 150px">clear</button>
+    <button onclick="validcap()" style="font-size: 20px;margin-bottom:auto;
+    height: 70;width: 80;border-radius: 15px;padding-left: 10px;margin-left: 160px;">submit</button>
